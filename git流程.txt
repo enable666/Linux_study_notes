@@ -1,0 +1,11 @@
+上传（Push）三部曲（重点！）
+在 study-notes 文件夹内部右键打开 Git Bash Here，依次执行以下三条命令：
+
+第一步：把新文件添加到暂存区（注意后面有一个空格和点）
+git add .
+
+第二步：提交到本地仓库，并写上备注说明
+git commit -m "说明"
+
+第三步：推送到 GitHub 远程仓库
+git push origin main
